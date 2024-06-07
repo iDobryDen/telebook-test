@@ -4,7 +4,9 @@
     "description": "Telegram mini app with Nuxt.js",
     "main": "index.js",
     "dependencies": {
-        "nuxt": "^3.11.2"
+        "nuxt": "^3.11.2",
+        "pg": "^8.12.0",
+        "pg-promise": "^11.8.0"
     },
     "scripts": {
         "dev": "nuxt",
